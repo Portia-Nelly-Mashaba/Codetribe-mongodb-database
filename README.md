@@ -169,7 +169,7 @@ To ensure the database and collections are correctly set up:
 
 ![Codetribe Database Overview](assets/images/facilitator_db.png)  
 ![Codetribe Trainees Collection Overview](assets/images/trainee_db.png)
-![Codetribe Projects Collection Overview](assets/images/trainee_db.png)
+![Codetribe Projects Collection Overview](assets/images/projects_db.png)
 
 ---
 
